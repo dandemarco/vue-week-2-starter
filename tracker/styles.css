@@ -2,3 +2,15 @@
     max-height: 250px;
     overflow: scroll;
 }
+
+.Drawing {
+    background-color:crimson;   
+}
+
+.Sketching {
+    color:darkgoldenrod;   
+}
+
+.Painting {
+    color:darkseagreen;
+}
